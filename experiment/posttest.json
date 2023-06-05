@@ -2,12 +2,72 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Which of the following shape of the body can be considered as compound pendulum?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cylindrical",
+        "b": "Cubical",
+        "c": "Cuboidal",
+        "d": "Any rigid body"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 1  <a href='www.google.com'>here</a>"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Compound pendulum needs to be spherical in shape?",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1 <a href='www.google.com'>here</a>"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. All simple pendulums are compound pendulums?",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The value of acceleration due to gravity?",
+      "answers": {
+        "a": "is same on equator and poles",
+        "b": "is least on poles",
+        "c": "is least on equator",
+        "d": "increases from pole to equator"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "Explanation 1  <a href='www.google.com'>here</a>",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. The time taken by a pendulum to complete one oscillation is called its",
+      "answers": {
+        "a": "Time period",
+        "b": "Amplitude",
+        "c": "Velocity",
+        "d": "frequency"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -16,23 +76,6 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
