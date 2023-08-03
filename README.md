@@ -18,16 +18,15 @@ where T is the period of oscillation, L is the length of the pendulum, and g is 
   
 In a practical experiment, the length of the pendulum is measured and the time it takes for the pendulum to complete a certain number of swings is recorded. The period of oscillation is then calculated by dividing the total time by the number of swings. The value of g can then be determined using the formula above.<br><br>
 
-<b>Name of Developer | <b> Adarsh Singh
+<b>Name of Developer | <b> Dr. Ashutosh Tiwari
 :--|:--|
 <b> Institute | <b> Rajkiya Engineering College Banda 
-<b> Email id|     <b> adarshsingh2508@gmail.com  
-<b> Department |  Information Technology
+<b> Email id|     <b> ashutosh.tiwari@recbanda.ac.in 
+<b> Department | Mechanical Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr. Ashutosh Tiwari | Faculty | Applied Science | Rajkiya Engineering College Banda | ashutosh.tiwari@recbanda.ac.in
-2 | Adarsh Singh | Student | Information Technology| Rajkiya Engineering College Banda | adarshsingh2508@gmail.com  
-3 | Rahul Pushpakar | Student | Mechanical Engineering| Rajkiya Engineering College Banda | rahulpushpker@gmail.com
+1 | Adarsh Singh | Student | Information Technology| Rajkiya Engineering College Banda | adarshsingh2508@gmail.com  
+
