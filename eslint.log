@@ -1,0 +1,7 @@
+
+/home/runner/work/exp-compound-pendulum-iitk/exp-compound-pendulum-iitk/experiment/simulation/js/main.js
+  2:10  warning  'openNav' is defined but never used   no-unused-vars
+  6:12  warning  'closeNav' is defined but never used  no-unused-vars
+
+✖ 2 problems (0 errors, 2 warnings)
+

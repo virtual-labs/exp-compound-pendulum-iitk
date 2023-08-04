@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. he period of oscillation is T the minimum time taken by the particle to travel half of the amplitude from the equilibrium position is?",
+      "answers": {
+        "a": "T/4",
+        "b": "T/8",
+        "c": "T/12",
+        "d": "T/2"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Choose the wrong statement",
+      "answers": {
+        "a": "1 kg wt. = 9.8 N",
+        "b": "Momentum is vector quantity",
+        "c": "Force is always is conserved",
+        "d": "Momentum is conserved in the absence of an external force"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
