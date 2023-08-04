@@ -22,7 +22,7 @@ In a practical experiment, the length of the pendulum is measured and the time i
 :--|:--|
 <b> Institute | <b> Rajkiya Engineering College Banda 
 <b> Email id|     <b> ashutosh.tiwari@recbanda.ac.in 
-<b> Department | Mechanical Engineering
+<b> Department | Applied Science and Humanities
 
 ### Contributors List
 
