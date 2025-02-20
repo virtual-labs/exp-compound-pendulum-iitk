@@ -2,37 +2,84 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Which type of pendulum is considered a more realistic representation of pendulum motion?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Double pendulum",
+        "b": "Compound pendulum",
+        "c": "Kater's pendulum",
+        "d": "Simple pendulum"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "a": "Explanation 2",
+        "b": " A compound pendulum, with its distributed mass along a rigid body, provides a more realistic representation of pendulum motion compared to a simple pendulum.",
         "c": "Explanation 2",
-        "d": "Explanation 2"
+        "d": "Explanation 1  <a href='www.google.com'>here</a>"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What determines the time period of a compound pendulum?",
+      "answers": {
+        "a": "Only the mass of the pendulum",
+        "b": "Only the length of the pendulum",
+        "c": "The moment of inertia, mass, gravitational acceleration, and distance between the centre of mass and the pivot",
+"d":"The gravitational acceleration and distance between the centre of mass and the pivot"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1 <a href='www.google.com'>here</a>", 
+        "c" : "The time period of a compound pendulum is determined by factors such as its moment of inertia, mass, gravitational acceleration, and the distance between the centre of mass and the pivot.",
+        "d": "c option is correct "
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. All simple pendulums are compound pendulums?",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "A simple pendulum consists of a mass (called the bob) attached to a string or rod of negligible mass, swinging about a pivot point. In the case of a compound pendulum, which is a more general term, any rigid body swinging about a fixed horizontal axis can be considered. Since a simple pendulum meets these criteria (it can be thought of as a compound pendulum with a very simple, uniform mass distribution), the statement is true.",
+        "b": "This explanation is incorrect because a simple pendulum can be viewed as a specific instance of a compound pendulum with a mass concentrated at a single point and a massless string or rod. Therefore, the statement that all simple pendulums are compound pendulums is true."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "4. The value of acceleration due to gravity?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "is same on equator and poles",
+        "b": "is least on poles",
+        "c": "is least on equator",
+        "d": "increases from pole to equator"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is incorrect because the acceleration due to gravity varies with latitude; it is not the same at the equator and the poles.",
+      "b": "This is incorrect because the acceleration due to gravity is actually greatest at the poles due to the Earth's shape and rotation.",
+      "c": "This is correct because the acceleration due to gravity is least at the equator due to the centrifugal force caused by the Earth's rotation and the equatorial bulge.",
+      "d": "This is incorrect because the acceleration due to gravity decreases from the poles to the equator, not increases."
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. The time taken by a pendulum to complete one oscillation is called its",
+      "answers": {
+        "a": "Time period",
+        "b": "Amplitude",
+        "c": "Velocity",
+        "d": "frequency"
+      },
+      "explanations": {
+        "a": "This is correct. The time taken by a pendulum to complete one oscillation is known as its time period. <a href='www.google.com'>here</a>",
+      "b": "This is incorrect. Amplitude is the maximum extent of a vibration or oscillation, measured from the position of equilibrium.",
+      "c": "This is incorrect. Velocity refers to the speed of something in a given direction.",
+      "d": "This is incorrect. Frequency is the number of oscillations per unit time."
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
