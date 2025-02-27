@@ -10,10 +10,10 @@
         "d": "Simple pendulum"
       },
       "explanations": {
-        "a": "Explanation 2",
+        "a": "Explanation",
         "b": " A compound pendulum, with its distributed mass along a rigid body, provides a more realistic representation of pendulum motion compared to a simple pendulum.",
-        "c": "Explanation 2",
-        "d": "Explanation 1  <a href='www.google.com'>here</a>"
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
 "d":"The gravitational acceleration and distance between the centre of mass and the pivot"
       },
       "explanations": {
-        "a": "Explanation 2",
-        "b": "Explanation 1 <a href='www.google.com'>here</a>", 
+        "a": "Explanation",
+        "b": "Explanation", 
         "c" : "The time period of a compound pendulum is determined by factors such as its moment of inertia, mass, gravitational acceleration, and the distance between the centre of mass and the pivot.",
-        "d": "c option is correct "
+        "d": "Explanation"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
