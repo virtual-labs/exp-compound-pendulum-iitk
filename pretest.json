@@ -1,0 +1,71 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. The period of oscillation is T the minimum time taken by the particle to travel half of the amplitude from the equilibrium position is?",
+      "answers": {
+        "a": "T/4",
+        "b": "T/8",
+        "c": "T/12",
+        "d": "T/2"
+      },
+      "explanations": {
+        "a": "This is correct. In one full period T, the particle moves from the equilibrium position to the maximum amplitude, back to the equilibrium, to the opposite maximum amplitude, and then back to the equilibrium. Hence, it takes T/4 to move from the equilibrium position to the maximum amplitude, which is half the amplitude. <a href='www.google.com'>here</a>",
+        "b": "This is incorrect. The correct time taken is T/4.",
+        "c": "This is incorrect. The correct time taken is T/4.",
+        "d": "This is incorrect. The correct time taken is T/4."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Choose the wrong statement",
+      "answers": {
+        "a": "1 kg wt. = 9.8 N",
+        "b": "Momentum is vector quantity",
+        "c": "Force is always is conserved",
+        "d": "Momentum is conserved in the absence of an external force"
+      },
+      "explanations": {
+        "a": "This is correct. 1 kg wt is the weight of 1 kilogram mass under the acceleration due to gravity, which equals 9.8 N.",
+        "b": "This is correct. Momentum is a vector quantity because it has both magnitude and direction.",
+        "c": "This is incorrect. Force is not always conserved; it can change based on interactions with other forces.",
+        "d": "This is correct. Momentum is conserved in the absence of an external force, according to the law of conservation of momentum."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },    {
+      "question": "3. In a compound pendulum, the point at which the entire mass of the pendulum can be considered to be concentrated is called the:",
+      "answers": {
+        "a": "Center of gravity",
+        "b": "Pivot point",
+        "c": "Center of oscillation",
+        "d": "Equilibrium position"
+      },
+      "explanations": {
+        "a": "This is incorrect. The center of gravity is the point where the weight of the body acts, but it is not specifically the point where the mass is considered to be concentrated for oscillation.",
+        "b": "This is incorrect. The pivot point is where the pendulum is attached and allowed to swing, not where the mass is concentrated.",
+        "c": "This is correct. In a compound pendulum, the center of oscillation is the point where the entire mass of the pendulum can be considered to be concentrated. <a href='www.google.com'>here</a>",
+        "d": "This is incorrect. The equilibrium position is where the pendulum rests when not in motion, not the point of concentrated mass for oscillation."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },{
+      "question": "4. What feature characterizes the design of a bar pendulum?",
+      "answers": {
+        "a": "A flexible string attached to a small mass",
+        "b": "Circular holes along the length of the bar for adjustments in the pivot point",
+        "c": " A large spherical mass attached to a thin rod",
+        "d": " A rigid metallic bar suspended from a vertical axis"
+      },
+      "explanations": {
+        "a": "This is incorrect. ",
+        "b": "This is correct. A bar pendulum typically features circular holes along its length, allowing for adjustments in the pivot point to achieve precise experimental setups",
+        "c": "This is incorrect. ",
+        "d": "This is incorrect."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    }
+  ]
+}

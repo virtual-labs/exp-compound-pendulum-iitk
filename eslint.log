@@ -1,0 +1,30 @@
+
+/home/runner/work/exp-compound-pendulum-iitk/exp-compound-pendulum-iitk/experiment/simulation/js/main.js
+    3:10  warning  'openNav' is defined but never used                   no-unused-vars
+    7:10  warning  'closeNav' is defined but never used                  no-unused-vars
+   20:40  warning  'callback' is defined but never used                  no-unused-vars
+   93:5   warning  'requestAnimFrame' is not defined                     no-undef
+   98:10  warning  'startanimation' is defined but never used            no-unused-vars
+  111:12  warning  'reducePeriod' is defined but never used              no-unused-vars
+  124:11  warning  'intervalID' is assigned a value but never used       no-unused-vars
+  192:7   warning  'procedure' is assigned a value but never used        no-unused-vars
+  222:7   warning  'i' is not defined                                    no-undef
+  222:14  warning  'i' is not defined                                    no-undef
+  222:31  warning  'i' is not defined                                    no-undef
+  223:49  warning  'i' is not defined                                    no-undef
+  223:69  warning  'i' is not defined                                    no-undef
+  238:5   warning  'inputTimePeriod' is assigned a value but never used  no-unused-vars
+  239:5   warning  'inputTmin' is assigned a value but never used        no-unused-vars
+  256:7   warning  'procedure2' is assigned a value but never used       no-unused-vars
+  284:7   warning  'inputBD' is assigned a value but never used          no-unused-vars
+  287:7   warning  'i' is not defined                                    no-undef
+  287:14  warning  'i' is not defined                                    no-undef
+  287:31  warning  'i' is not defined                                    no-undef
+  295:10  warning  'inputResult' is defined but never used               no-unused-vars
+  296:70  warning  'inputBD' is not defined                              no-undef
+
+/home/runner/work/exp-compound-pendulum-iitk/exp-compound-pendulum-iitk/experiment/simulation/js/stopwatch.js
+  5:12  error  Parsing error: Invalid number
+
+✖ 23 problems (1 error, 22 warnings)
+

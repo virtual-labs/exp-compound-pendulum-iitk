@@ -1,0 +1,123 @@
+/* You CSS goes in here */
+
+/* You CSS goes in here */
+
+
+
+*{
+    margin: 0px;
+    
+   
+}
+
+.overlay {
+    height: 0%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-y: hidden;
+    transition: 0.5s;
+  }
+  
+  li{
+    color: aliceblue;
+  }
+  .overlay-content {
+    position: relative;
+    top: 15%;
+    width: 100%;
+    
+    margin-top: 30px;
+  }
+  
+  .overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #faf5f5;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+  }
+  
+  .overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .overlay {overflow-y: auto;}
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+    }
+  }
+
+  #iconnav{
+    margin-right: 20px;
+    margin-left: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: black;
+    padding: 10px;
+
+  }
+  #iconnav:hover{
+background-color: #faf5f5;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main{
+    border: 20px solid rgb(139, 150, 15);
+    border-radius: 10px;
+    margin: 50px;
+    /* margin-right: 30px; */
+    margin-left: 150px;
+    width: 75%;
+    height: min-content;
+}
+.main-svg{
+   /* margin: 50px; */
+   margin-bottom: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+.heading{
+    position:sticky;
+    margin: 0px;
+    
+    text-align: center;
+    background-color: crimson;
+    padding: 30px;
+    color: white;
+    box-shadow: 2px 2px 2px 2px black;
+}
